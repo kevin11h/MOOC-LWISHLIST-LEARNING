@@ -17,6 +17,10 @@ G https://online.stanford.edu/courses/soe-ycsautomata-automata-theory
 
 H https://decal.berkeley.edu/courses/4380
 
+I https://www.edx.org/course/caltechx/caltechx-bem1105x-pricing-options-2786
+
+J https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox#!
+
 9. APPLIED CRYPTOGRAPHY (CS387): SCIENCE OF SECRETS
 Offered by: Udacity
 Offered when: anytime
