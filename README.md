@@ -4,6 +4,16 @@
 
 https://www.educationdive.com/news/10-moocs-being-offered-by-coursea-edx-and-other-providers/46101/
 
+https://online.stanford.edu/courses/cee244-accounting-and-finance-engineers
+
+https://online.stanford.edu/courses/mse245b-advanced-investment-science
+
+https://online.stanford.edu/courses/mse240-accounting-managers-and-entrepreneurs
+
+
+https://online.stanford.edu/courses/sohs-ymusic0001-audio-signal-processing-music-applications
+
+https://online.stanford.edu/courses/soe-ycsautomata-automata-theory
 
 9. APPLIED CRYPTOGRAPHY (CS387): SCIENCE OF SECRETS
 Offered by: Udacity
