@@ -1,19 +1,21 @@
 # MOOC-LWISHLIST-LEARNING
 
-### https://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/
+### A https://ocw.mit.edu/courses/sloan-school-of-management/15-s50-poker-theory-and-analytics-january-iap-2015/lecture-videos/
 
-https://www.educationdive.com/news/10-moocs-being-offered-by-coursea-edx-and-other-providers/46101/
+B https://www.educationdive.com/news/10-moocs-being-offered-by-coursea-edx-and-other-providers/46101/
 
-https://online.stanford.edu/courses/cee244-accounting-and-finance-engineers
+C https://online.stanford.edu/courses/cee244-accounting-and-finance-engineers
 
-https://online.stanford.edu/courses/mse245b-advanced-investment-science
+D https://online.stanford.edu/courses/mse245b-advanced-investment-science
 
-https://online.stanford.edu/courses/mse240-accounting-managers-and-entrepreneurs
+E https://online.stanford.edu/courses/mse240-accounting-managers-and-entrepreneurs
 
 
-https://online.stanford.edu/courses/sohs-ymusic0001-audio-signal-processing-music-applications
+F https://online.stanford.edu/courses/sohs-ymusic0001-audio-signal-processing-music-applications
 
-https://online.stanford.edu/courses/soe-ycsautomata-automata-theory
+G https://online.stanford.edu/courses/soe-ycsautomata-automata-theory
+
+H https://decal.berkeley.edu/courses/4380
 
 9. APPLIED CRYPTOGRAPHY (CS387): SCIENCE OF SECRETS
 Offered by: Udacity
